@@ -1,0 +1,596 @@
+[
+  {
+    "frame_id": 0,
+    "frame_index": 0,
+    "latitude": 19.3971006,
+    "longitude": -99.1652088,
+    "elevation": 2257.75,
+    "distance_on_track": 0,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 1,
+    "frame_index": 37,
+    "latitude": 19.3970839,
+    "longitude": -99.1651067,
+    "elevation": 2257.45,
+    "distance_on_track": 10.89,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 2,
+    "frame_index": 74,
+    "latitude": 19.3970657,
+    "longitude": -99.1650063,
+    "elevation": 2257.22,
+    "distance_on_track": 21.63,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 3,
+    "frame_index": 111,
+    "latitude": 19.3970338,
+    "longitude": -99.164892,
+    "elevation": 2256.27,
+    "distance_on_track": 34.16,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 4,
+    "frame_index": 148,
+    "latitude": 19.3970045,
+    "longitude": -99.164784,
+    "elevation": 2254.82,
+    "distance_on_track": 45.97,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 5,
+    "frame_index": 185,
+    "latitude": 19.3969879,
+    "longitude": -99.1646689,
+    "elevation": 2253.98,
+    "distance_on_track": 58.21,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 6,
+    "frame_index": 222,
+    "latitude": 19.3969679,
+    "longitude": -99.1645313,
+    "elevation": 2253.37,
+    "distance_on_track": 72.83,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 7,
+    "frame_index": 259,
+    "latitude": 19.3969415,
+    "longitude": -99.1643992,
+    "elevation": 2252.27,
+    "distance_on_track": 87.0,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 8,
+    "frame_index": 296,
+    "latitude": 19.3969135,
+    "longitude": -99.1642663,
+    "elevation": 2251.43,
+    "distance_on_track": 101.31,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 9,
+    "frame_index": 333,
+    "latitude": 19.3968847,
+    "longitude": -99.1641175,
+    "elevation": 2251.31,
+    "distance_on_track": 117.26,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 10,
+    "frame_index": 370,
+    "latitude": 19.3968527,
+    "longitude": -99.1639815,
+    "elevation": 2250.75,
+    "distance_on_track": 131.99,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 11,
+    "frame_index": 407,
+    "latitude": 19.3968232,
+    "longitude": -99.1638488,
+    "elevation": 2250.3,
+    "distance_on_track": 146.3,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 12,
+    "frame_index": 444,
+    "latitude": 19.3968025,
+    "longitude": -99.1637475,
+    "elevation": 2250.46,
+    "distance_on_track": 157.18,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 13,
+    "frame_index": 518,
+    "latitude": 19.3967708,
+    "longitude": -99.1635746,
+    "elevation": 2250.7,
+    "distance_on_track": 175.7,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 14,
+    "frame_index": 592,
+    "latitude": 19.3967514,
+    "longitude": -99.163443,
+    "elevation": 2254.59,
+    "distance_on_track": 189.85,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 15,
+    "frame_index": 666,
+    "latitude": 19.3967152,
+    "longitude": -99.163275,
+    "elevation": 2253.0,
+    "distance_on_track": 207.97,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 16,
+    "frame_index": 703,
+    "latitude": 19.3966935,
+    "longitude": -99.163181,
+    "elevation": 2252.57,
+    "distance_on_track": 218.13,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 17,
+    "frame_index": 740,
+    "latitude": 19.3966671,
+    "longitude": -99.1630753,
+    "elevation": 2251.91,
+    "distance_on_track": 229.62,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 18,
+    "frame_index": 777,
+    "latitude": 19.3966442,
+    "longitude": -99.1629692,
+    "elevation": 2251.04,
+    "distance_on_track": 241.05,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 19,
+    "frame_index": 814,
+    "latitude": 19.3966208,
+    "longitude": -99.1628473,
+    "elevation": 2251.43,
+    "distance_on_track": 254.11,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 20,
+    "frame_index": 851,
+    "latitude": 19.3965974,
+    "longitude": -99.162725,
+    "elevation": 2251.43,
+    "distance_on_track": 267.22,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 21,
+    "frame_index": 888,
+    "latitude": 19.3965691,
+    "longitude": -99.1625987,
+    "elevation": 2250.52,
+    "distance_on_track": 280.85,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 22,
+    "frame_index": 925,
+    "latitude": 19.3965355,
+    "longitude": -99.1624551,
+    "elevation": 2249.69,
+    "distance_on_track": 296.39,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 23,
+    "frame_index": 962,
+    "latitude": 19.3965075,
+    "longitude": -99.1623152,
+    "elevation": 2250.07,
+    "distance_on_track": 311.41,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 24,
+    "frame_index": 999,
+    "latitude": 19.3964741,
+    "longitude": -99.1621751,
+    "elevation": 2249.68,
+    "distance_on_track": 326.58,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 25,
+    "frame_index": 1036,
+    "latitude": 19.396443,
+    "longitude": -99.1620353,
+    "elevation": 2249.09,
+    "distance_on_track": 341.66,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 26,
+    "frame_index": 1073,
+    "latitude": 19.3964129,
+    "longitude": -99.1619181,
+    "elevation": 2248.37,
+    "distance_on_track": 354.42,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 27,
+    "frame_index": 1110,
+    "latitude": 19.396394,
+    "longitude": -99.161816,
+    "elevation": 2248.13,
+    "distance_on_track": 365.36,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 28,
+    "frame_index": 1147,
+    "latitude": 19.3963777,
+    "longitude": -99.1617217,
+    "elevation": 2247.4,
+    "distance_on_track": 375.43,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 29,
+    "frame_index": 1258,
+    "latitude": 19.3963404,
+    "longitude": -99.1616084,
+    "elevation": 2246.79,
+    "distance_on_track": 388.11,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 30,
+    "frame_index": 1332,
+    "latitude": 19.3963056,
+    "longitude": -99.1614921,
+    "elevation": 2245.81,
+    "distance_on_track": 400.97,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 31,
+    "frame_index": 1369,
+    "latitude": 19.3962699,
+    "longitude": -99.161398,
+    "elevation": 2244.74,
+    "distance_on_track": 411.61,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 32,
+    "frame_index": 1406,
+    "latitude": 19.3962421,
+    "longitude": -99.1612959,
+    "elevation": 2244.03,
+    "distance_on_track": 422.78,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 33,
+    "frame_index": 1443,
+    "latitude": 19.3962212,
+    "longitude": -99.1611833,
+    "elevation": 2243.01,
+    "distance_on_track": 434.84,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 34,
+    "frame_index": 1480,
+    "latitude": 19.3962073,
+    "longitude": -99.1610769,
+    "elevation": 2242.5,
+    "distance_on_track": 446.12,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 35,
+    "frame_index": 1517,
+    "latitude": 19.3961972,
+    "longitude": -99.160964,
+    "elevation": 2242.31,
+    "distance_on_track": 458.02,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 36,
+    "frame_index": 1554,
+    "latitude": 19.3961855,
+    "longitude": -99.1608294,
+    "elevation": 2242.67,
+    "distance_on_track": 472.22,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 37,
+    "frame_index": 1591,
+    "latitude": 19.396173,
+    "longitude": -99.1607033,
+    "elevation": 2242.43,
+    "distance_on_track": 485.55,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 38,
+    "frame_index": 1628,
+    "latitude": 19.3961564,
+    "longitude": -99.1605593,
+    "elevation": 2241.94,
+    "distance_on_track": 500.78,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 39,
+    "frame_index": 1665,
+    "latitude": 19.3961477,
+    "longitude": -99.1604326,
+    "elevation": 2242.06,
+    "distance_on_track": 514.12,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 40,
+    "frame_index": 1702,
+    "latitude": 19.3961378,
+    "longitude": -99.1603126,
+    "elevation": 2242.42,
+    "distance_on_track": 526.77,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 41,
+    "frame_index": 1739,
+    "latitude": 19.3961301,
+    "longitude": -99.1601833,
+    "elevation": 2242.04,
+    "distance_on_track": 540.37,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 42,
+    "frame_index": 1776,
+    "latitude": 19.3961216,
+    "longitude": -99.1600577,
+    "elevation": 2242.09,
+    "distance_on_track": 553.6,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 43,
+    "frame_index": 1813,
+    "latitude": 19.3961124,
+    "longitude": -99.1599309,
+    "elevation": 2241.85,
+    "distance_on_track": 566.96,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 44,
+    "frame_index": 1850,
+    "latitude": 19.396103,
+    "longitude": -99.1597918,
+    "elevation": 2241.2,
+    "distance_on_track": 581.6,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 45,
+    "frame_index": 1887,
+    "latitude": 19.3960943,
+    "longitude": -99.1596725,
+    "elevation": 2241.11,
+    "distance_on_track": 594.17,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 46,
+    "frame_index": 1924,
+    "latitude": 19.3960892,
+    "longitude": -99.1595471,
+    "elevation": 2240.94,
+    "distance_on_track": 607.34,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 47,
+    "frame_index": 1961,
+    "latitude": 19.3960845,
+    "longitude": -99.1594,
+    "elevation": 2241.1,
+    "distance_on_track": 622.81,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 48,
+    "frame_index": 1998,
+    "latitude": 19.3960754,
+    "longitude": -99.1592619,
+    "elevation": 2240.03,
+    "distance_on_track": 637.35,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 49,
+    "frame_index": 2035,
+    "latitude": 19.3960621,
+    "longitude": -99.1591226,
+    "elevation": 2238.92,
+    "distance_on_track": 652.05,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 50,
+    "frame_index": 2072,
+    "latitude": 19.3960572,
+    "longitude": -99.1590045,
+    "elevation": 2238.51,
+    "distance_on_track": 664.46,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 51,
+    "frame_index": 2109,
+    "latitude": 19.3960509,
+    "longitude": -99.1588884,
+    "elevation": 2238.87,
+    "distance_on_track": 676.68,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 52,
+    "frame_index": 2146,
+    "latitude": 19.3960466,
+    "longitude": -99.1587568,
+    "elevation": 2239.74,
+    "distance_on_track": 690.5,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 53,
+    "frame_index": 2183,
+    "latitude": 19.3960371,
+    "longitude": -99.1586366,
+    "elevation": 2240.08,
+    "distance_on_track": 703.17,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 54,
+    "frame_index": 2220,
+    "latitude": 19.39603,
+    "longitude": -99.1585157,
+    "elevation": 2240.15,
+    "distance_on_track": 715.89,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 55,
+    "frame_index": 2257,
+    "latitude": 19.3960201,
+    "longitude": -99.1583966,
+    "elevation": 2240.46,
+    "distance_on_track": 728.46,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 56,
+    "frame_index": 2331,
+    "latitude": 19.3960037,
+    "longitude": -99.158215,
+    "elevation": 2240.85,
+    "distance_on_track": 747.64,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 57,
+    "frame_index": 2368,
+    "latitude": 19.3959902,
+    "longitude": -99.158098,
+    "elevation": 2240.54,
+    "distance_on_track": 760.03,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 58,
+    "frame_index": 2405,
+    "latitude": 19.3959862,
+    "longitude": -99.1579782,
+    "elevation": 2240.49,
+    "distance_on_track": 772.62,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 59,
+    "frame_index": 2442,
+    "latitude": 19.3959824,
+    "longitude": -99.1578457,
+    "elevation": 2240.37,
+    "distance_on_track": 786.54,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 60,
+    "frame_index": 2479,
+    "latitude": 19.3959706,
+    "longitude": -99.1577438,
+    "elevation": 2239.87,
+    "distance_on_track": 797.33,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 61,
+    "frame_index": 2553,
+    "latitude": 19.3959511,
+    "longitude": -99.1575945,
+    "elevation": 2241.08,
+    "distance_on_track": 813.16,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 62,
+    "frame_index": 2775,
+    "latitude": 19.3959836,
+    "longitude": -99.1575109,
+    "elevation": 2248.94,
+    "distance_on_track": 824.31,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 63,
+    "frame_index": 2886,
+    "latitude": 19.3959861,
+    "longitude": -99.157395,
+    "elevation": 2250.48,
+    "distance_on_track": 836.54,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 64,
+    "frame_index": 2960,
+    "latitude": 19.3959742,
+    "longitude": -99.1572677,
+    "elevation": 2251.64,
+    "distance_on_track": 850.03,
+    "estimation_radius_m": 5.0
+  },
+  {
+    "frame_id": 65,
+    "frame_index": 3034,
+    "latitude": 19.3959682,
+    "longitude": -99.1571629,
+    "elevation": 2252.09,
+    "distance_on_track": 861.08,
+    "estimation_radius_m": 5.0
+  }
+]
